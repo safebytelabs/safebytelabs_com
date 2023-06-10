@@ -11,8 +11,7 @@
     const cfg = {
         
         // MailChimp URL
-        mailChimpURL : 'https://facebook.us1.list-manage.com/subscribe/post?u=1abf75f6981256963a47d197a&amp;id=37c6d8f4d6' 
-
+        mailChimpURL : 'https://safebytelabs.us21.list-manage.com/subscribe/post?u=948618ea48f2e5227e95cce4f&amp;id=3d560b7ee7&amp;f_id=00a8d7e6f0'
     };
 
 
